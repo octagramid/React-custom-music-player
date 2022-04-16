@@ -1,8 +1,9 @@
-import Halo from "./components/Hallo";
+import { MusicPlayer } from "./components/MusicPlayer";
+
 function App() {
   return (
     <div className="App">
-      <Halo />
+      <MusicPlayer />
     </div>
   );
 }
